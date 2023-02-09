@@ -1,1 +1,1 @@
-# Excercises and solutions from learning machine 
+# Excercises and solutions from the Learning Machine (a total of 5 days).
